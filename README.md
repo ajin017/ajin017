@@ -12,5 +12,5 @@ b.https://www.octoparse.com/
 
 
 
-##*LICENSE*
+##LICENSE
 Public domain
