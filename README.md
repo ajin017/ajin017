@@ -9,3 +9,7 @@ c.In the end, the Web Scraper provides you with all the data it has collected in
 >some websites to help u get started
 a.https://www.parsehub.com/
 b.https://www.octoparse.com/
+
+
+
+*LICENSE*
